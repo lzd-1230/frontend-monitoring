@@ -1,2 +1,1 @@
-# sentry-frontend
-Demo REACT application accompanying the Sentry front-end tutorial available here: https://docs.sentry.io/guides/integrate-frontend/
+本地项目提交到GitHub并关联Sentry
